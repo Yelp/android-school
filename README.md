@@ -104,3 +104,9 @@ We'll be updating this once every month or so as we complete new topics in our o
 * [Advanced Espresso](https://www.youtube.com/watch?v=isihPOY2vS4)
 * [What’s New in Android Security (M and N Version)](https://www.youtube.com/watch?v=XZzLjllizYs)
 * [Inclusive Design And Testing: Making Your App Accessible](https://www.youtube.com/watch?v=SOZwfQO4rVM)
+
+#### Tools (Android Studio, Debugger, OS X productivity)
+* [Knowledge Is Power: Understanding git](https://www.youtube.com/watch?v=sevc6668cQ0)
+* [Mac OS X Automation Workshop](https://www.youtube.com/watch?v=yzE1UxVl6U4)
+* [Mastering the Vim Language](https://www.youtube.com/watch?v=wlR5gYd6um0) (intermediate)
+* [From Vim Muggle to Wizard in 10 Easy Steps](https://www.youtube.com/watch?v=MquaityA1SM) (advanced)
