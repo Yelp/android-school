@@ -77,6 +77,15 @@ We'll be updating this once every month or so as we complete new topics in our o
 * [Bake the Cookies, Wear the Dress: Connecting with Confident Authority](https://www.youtube.com/watch?v=6Uj746j9Heo)
 * [Your Brain's Api: Giving And Getting Technical Help](https://www.youtube.com/watch?v=hY14Er6JX2s)
 
+#### Being a Great Engineer (Month 2)
+
+* ["Uncle" Bob Martin - "The Future of Programming"](https://www.youtube.com/watch?v=ecIWPzGEbFc)
+* [Effective Java - Still Effective After All These Years](https://www.youtube.com/watch?v=V1vQf4qyMXg)
+* [Working Effectively with Legacy Code by Roberto Hernandez-Pou](https://www.youtube.com/watch?v=9cVh-3BbeP8)
+* [GOTO 2016 • Seven Secrets of Maintainable Codebases • Adam Tornhill](https://www.youtube.com/watch?v=0oDporwhToQ)
+* [GOTO 2015 • Unselfish Testing • Jay Fields](https://www.youtube.com/watch?v=f9eu4mMOtN4)
+* [Case Statudies in Terrible Testing](https://vimeo.com/144684986)
+
 #### Organizational Culture
 
 * [How Our Engineering Environments Are Killing Diversity (And How We Can Fix It).](https://www.youtube.com/watch?v=kNke_4WOWAU)
@@ -110,3 +119,5 @@ We'll be updating this once every month or so as we complete new topics in our o
 * [Mac OS X Automation Workshop](https://www.youtube.com/watch?v=yzE1UxVl6U4)
 * [Mastering the Vim Language](https://www.youtube.com/watch?v=wlR5gYd6um0) (intermediate)
 * [From Vim Muggle to Wizard in 10 Easy Steps](https://www.youtube.com/watch?v=MquaityA1SM) (advanced)
+
+#### 
