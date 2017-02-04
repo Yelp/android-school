@@ -42,18 +42,20 @@ We'll be updating this once every month or so as we complete new topics in our o
 * [App Indexing](https://www.youtube.com/watch?v=pl1-m8tJDmQ)
 * [Android App Anatomy](http://www.infoq.com/presentations/Android-Design/)
 
+#### Software Engineering Theory: Patterns
+* [Composition vs inheritance](https://www.youtube.com/watch?v=dYUZiJEy0JE)
+* [Deep Dive into Dependency Injection](https://www.youtube.com/watch?v=I6-QI1qN4pU)
+* [The Clean Code Talks - Don't Look For Things!](https://www.youtube.com/watch?v=RlfLCWKxHJ0)
+* [Robert C Martin - Clean Architecture and Design](https://www.youtube.com/watch?v=Nsjsiz2A9mg)
+
 #### Software Engineering Theory: Writing Clean Code
 
 * [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy)
-* [The Clean Code Talks - Don't Look For Things!](https://www.youtube.com/watch?v=RlfLCWKxHJ0)
 * [How to Write Clean, Testable Code](https://www.youtube.com/watch?v=XcT4yYu_TTs)
 * [The Clean Code Talks - Global State And Singletons](https://www.youtube.com/watch?v=-FRm3VPhseI&list=PL693EFD059797C21E&index=2)
 * [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc)
 * [How To Design A Good Api And Why It Matters](https://www.youtube.com/watch?v=aAb7hSCtvGw)
-* [Composition vs inheritance] (https://www.youtube.com/watch?v=dYUZiJEy0JE)
-* [Deep Dive into Dependency Injection] (https://www.youtube.com/watch?v=I6-QI1qN4pU)
-* [Robert C Martin - Clean Architecture and Design] (https://www.youtube.com/watch?v=Nsjsiz2A9mg)
-* [Applying S.O.L.I.D. Principles] (https://www.youtube.com/watch?v=gwIS9cZlrhk)
+* [Applying S.O.L.I.D. Principles](https://www.youtube.com/watch?v=gwIS9cZlrhk)
 
 #### Software Engineering Theory
 
