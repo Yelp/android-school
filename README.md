@@ -44,7 +44,6 @@ We'll be updating this once every month or so as we complete new topics in our o
 
 #### Software Engineering Theory: Patterns
 * [Composition vs inheritance](https://www.youtube.com/watch?v=dYUZiJEy0JE)
-* [Deep Dive into Dependency Injection](https://www.youtube.com/watch?v=I6-QI1qN4pU)
 * [The Clean Code Talks - Don't Look For Things!](https://www.youtube.com/watch?v=RlfLCWKxHJ0)
 * [Robert C Martin - Clean Architecture and Design](https://www.youtube.com/watch?v=Nsjsiz2A9mg)
 
