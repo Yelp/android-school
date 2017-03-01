@@ -55,6 +55,7 @@ We'll be updating this once every month or so as we complete new topics in our o
 * [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc)
 * [How To Design A Good Api And Why It Matters](https://www.youtube.com/watch?v=aAb7hSCtvGw)
 * [Applying S.O.L.I.D. Principles](https://www.youtube.com/watch?v=gwIS9cZlrhk)
+* [Domain Driven Design By Example](https://www.youtube.com/watch?v=uwJRrJ2Hwqg&t=19s)
 
 #### Software Engineering Theory
 
