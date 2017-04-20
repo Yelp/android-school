@@ -22,6 +22,8 @@ We'll be updating this once every month or so as we complete new topics in our o
 * [Introduction to Project Volta](https://www.google.com/events/io/io14videos/64bf2234-4bcb-e311-b297-00155d5066d7)
 * [The Art Runtime](https://www.google.com/events/io/io14videos/b750c8da-aebe-e311-b297-00155d5066d7)
 * [Android Binder IPC Framework](https://www.youtube.com/watch?v=hiq3mGfLOtE)
+* [Interprocess Communication](https://www.youtube.com/watch?v=JjhI8-SRnZA)
+* [How The Main Thread Works](https://www.youtube.com/watch?v=aFGbv9Ih9qQ)
 
 #### Views
 
@@ -29,12 +31,16 @@ We'll be updating this once every month or so as we complete new topics in our o
 * [Enabling Blind and Low-Vision Accessibility](http://www.youtube.com/watch?v=ld7kZRpMGb8)
 * [Writing Custom Views for Android](http://www.youtube.com/watch?v=NYtB6mlu7vA)
 * [Mastering the Android Touch System](http://www.youtube.com/watch?v=EZAoJU-nUyI&list=UUkQX1tChV7Z7l1LFF4L9j_g)
+* [Efficient Android Layouts](https://www.youtube.com/watch?v=_nB4ufohOJk)
 
 #### Views - Next Level
 
 * [Mastering Android Drawables](https://www.parleys.com/play/528e806ae4b054cd7d2ef4a5/chapter0/about)
 * [Filthy Rich [Android] Clients](https://www.parleys.com/play/529474eee4b0524648d3aeab/about)
 * [Framing the Canvas](https://www.youtube.com/watch?v=IO_ckHYZv8U)
+* [How LayoutInflator Works](https://www.youtube.com/watch?v=Y06wmVIFlsw)
+* [Window Content Transitions](https://www.youtube.com/watch?v=VnB8XNi-kWA)
+
 
 #### Android Features
 
