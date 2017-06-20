@@ -97,6 +97,7 @@ We'll be updating this once every month or so as we complete new topics in our o
 * [GOTO 2016 • Seven Secrets of Maintainable Codebases • Adam Tornhill](https://www.youtube.com/watch?v=0oDporwhToQ)
 * [GOTO 2015 • Unselfish Testing • Jay Fields](https://www.youtube.com/watch?v=f9eu4mMOtN4)
 * [Case Statudies in Terrible Testing](https://vimeo.com/144684986)
+* [The Silver Bullet Syndrome](https://www.youtube.com/watch?v=3wyd6J3yjcs)
 
 #### Organizational Culture
 
