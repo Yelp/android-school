@@ -56,7 +56,6 @@ We'll be updating this once every month or so as we complete new topics in our o
 #### Software Engineering Theory: Writing Clean Code
 
 * [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy)
-* [How to Write Clean, Testable Code](https://www.youtube.com/watch?v=XcT4yYu_TTs)
 * [The Clean Code Talks - Global State And Singletons](https://www.youtube.com/watch?v=-FRm3VPhseI&list=PL693EFD059797C21E&index=2)
 * [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc)
 * [How To Design A Good Api And Why It Matters](https://www.youtube.com/watch?v=aAb7hSCtvGw)
@@ -77,10 +76,12 @@ We'll be updating this once every month or so as we complete new topics in our o
 * [Fundamentals of Design: How to Think Like a Designer](https://www.skillshare.com/classes/design/Fundamentals-of-Design-How-to-Think-Like-a-Designer/1986357063/classroom/discussions)
 * [Material Science: Developing Android Applications with Material Design](https://www.google.com/events/io/io14videos/4f4e4aa1-b7b3-e311-b30e-00155d5066d7)
 * [Material Design For Android Developers](https://www.udacity.com/course/android-design-for-developers--ud862) - Udacity Course
+* [Inclusive Design And Testing: Making Your App Accessible](https://www.youtube.com/watch?v=SOZwfQO4rVM)
 
 #### Android Performance
 
 * [Performance Patterns with Colt McAnlis](https://www.youtube.com/watch?v=7lxVqqWwTb0&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE)
+* [Android Performance: An Overview](https://www.youtube.com/watch?v=Qfo5fdoXrTU)
 
 #### Being a Great Engineer
 
@@ -95,9 +96,18 @@ We'll be updating this once every month or so as we complete new topics in our o
 * [Effective Java - Still Effective After All These Years](https://www.youtube.com/watch?v=V1vQf4qyMXg)
 * [Working Effectively with Legacy Code by Roberto Hernandez-Pou](https://www.youtube.com/watch?v=9cVh-3BbeP8)
 * [GOTO 2016 • Seven Secrets of Maintainable Codebases • Adam Tornhill](https://www.youtube.com/watch?v=0oDporwhToQ)
-* [GOTO 2015 • Unselfish Testing • Jay Fields](https://www.youtube.com/watch?v=f9eu4mMOtN4)
-* [Case Statudies in Terrible Testing](https://vimeo.com/144684986)
+* [Case Studies in Terrible Testing](https://vimeo.com/144684986)
 * [The Silver Bullet Syndrome](https://www.youtube.com/watch?v=3wyd6J3yjcs)
+
+#### Testing
+
+* [GOTO 2015 • Unselfish Testing • Jay Fields](https://www.youtube.com/watch?v=f9eu4mMOtN4)
+* [How to Write Clean, Testable Code](https://www.youtube.com/watch?v=XcT4yYu_TTs)
+* [The Clean Code Talks -- Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w)
+* [Why You Don't Get Mock Objects](https://www.youtube.com/watch?v=R9FOchgTtLM)
+* [Acceptance Testing For Continuous Delivery](https://www.youtube.com/watch?v=SBhgteA2szg)
+* [Advanced Espresso](https://www.youtube.com/watch?v=isihPOY2vS4)
+* [Advanced Android Espresso](https://www.youtube.com/watch?v=JlHJFZvZyxw)
 
 #### Organizational Culture
 
@@ -111,8 +121,6 @@ We'll be updating this once every month or so as we complete new topics in our o
 * [Introduction to Functional Reactive Programming (With a Bit More of an Android Focus)](https://www.youtube.com/watch?v=_XKX6UQfNGY)
 * [Dagger 2: A New Type of Dependency Injection](https://www.youtube.com/watch?v=oK_XtfXPkqw)
 * [Retrofit 2](https://www.youtube.com/watch?v=KIAoQbAu3eA)
-* [Kotlin, the Swift of Android](https://www.youtube.com/watch?v=dJscNr1silY)
-* [Android Development with Kotlin](https://www.youtube.com/watch?v=A2LukgT2mKc)
 * [Android Tech Talk: Annotation Processing Boilerplate Destruction](http://www.youtube.com/watch?v=dOcs-NKK-RA)
 
 #### Google IO 2016
@@ -123,9 +131,22 @@ We'll be updating this once every month or so as we complete new topics in our o
 * [What the Fragment?](https://www.youtube.com/watch?v=k3IT-IJ0J98)
 * [Android Layouts: a New World](https://www.youtube.com/watch?v=sO9aX87hq9c)
 * [What’s New in the Support Library](https://www.youtube.com/watch?v=w45y_w4skKs)
-* [Advanced Espresso](https://www.youtube.com/watch?v=isihPOY2vS4)
 * [What’s New in Android Security (M and N Version)](https://www.youtube.com/watch?v=XZzLjllizYs)
-* [Inclusive Design And Testing: Making Your App Accessible](https://www.youtube.com/watch?v=SOZwfQO4rVM)
+
+#### Google IO 2017
+
+* [What's New in Development Tools](https://www.youtube.com/watch?v=Hx_rwS1NTiI&list=PLWz5rJ2EKKc-odHd6XEaf7ykfsosYyCKp&index=17)
+* [Architecture Components - Introduction](https://www.youtube.com/watch?v=FrteWKKVyzI&list=PLWz5rJ2EKKc-odHd6XEaf7ykfsosYyCKp&index=4) 
+* [Architecture Components - Solving the Lifecycle Problem](https://www.youtube.com/watch?v=bEKNi1JOrNs&list=PLWz5rJ2EKKc-odHd6XEaf7ykfsosYyCKp)
+* [Architecture Components - Persistence and Offline](https://www.youtube.com/watch?v=MfHsPGQ6bgE&list=PLWz5rJ2EKKc-odHd6XEaf7ykfsosYyCKp&index=20)
+* [Fragment Tricks](https://www.youtube.com/watch?v=eUG3VWnXFtg&list=PLWz5rJ2EKKc-odHd6XEaf7ykfsosYyCKp&index=15)
+
+#### Kotlin
+
+* [Introduction To Kotlin](https://www.youtube.com/watch?v=X1RVYt2QKQE)
+* [Life is Great and Everything Will Be Ok, Kotlin is Here](https://www.youtube.com/watch?v=fPzxfeDJDzY)
+* [Kotlin, the Swift of Android](https://www.youtube.com/watch?v=dJscNr1silY)
+* [Android Development with Kotlin](https://www.youtube.com/watch?v=A2LukgT2mKc)
 
 #### Tools (Android Studio, Debugger, OS X productivity)
 * [Knowledge Is Power: Understanding git](https://www.youtube.com/watch?v=sevc6668cQ0)
