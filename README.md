@@ -99,6 +99,13 @@ We'll be updating this once every month or so as we complete new topics in our o
 * [Case Studies in Terrible Testing](https://vimeo.com/144684986)
 * [The Silver Bullet Syndrome](https://www.youtube.com/watch?v=3wyd6J3yjcs)
 
+#### Being a Great Engineer (Month 3)
+
+* [Simplicity - The Way of the Unusual Architect](https://www.youtube.com/watch?v=DXzjNzkuEsw)
+* ["Uncle" Bob Martin - The Scribe's Oath](https://www.youtube.com/watch?v=Tng6Fox8EfI&spfreload=10)
+* [How and When to Explore - An Engineer's Guide](https://www.youtube.com/watch?v=rwWQe4vTbHI)
+* [Dan North - Decisions Decisions](https://www.youtube.com/watch?v=EauykEv_2iA)
+
 #### Testing
 
 * [GOTO 2015 • Unselfish Testing • Jay Fields](https://www.youtube.com/watch?v=f9eu4mMOtN4)
@@ -115,13 +122,17 @@ We'll be updating this once every month or so as we complete new topics in our o
 * [The Art of Organizational Manipulation](https://www.youtube.com/watch?v=OTCuYzAw31Y)
 * [Keynote - Jacob Kaplan-Moss - PyCon 2015](https://www.youtube.com/watch?v=hIJdFxYlEKE)
 
-#### Android Design Patterns (That We Don’t Use at Yelp)
 
-* [Functional Reactive Programming with Rxjava](https://www.youtube.com/watch?v=_t06LRX0DV0)
+#### RxJava Talks
+* [Functional Reactive Programming with RxJava](https://www.youtube.com/watch?v=_t06LRX0DV0)
 * [Introduction to Functional Reactive Programming (With a Bit More of an Android Focus)](https://www.youtube.com/watch?v=_XKX6UQfNGY)
+* [Managing State with RxJava](https://www.youtube.com/watch?v=0IKHxjkgop4)
+
+#### Various Cool Android Libraries
 * [Dagger 2: A New Type of Dependency Injection](https://www.youtube.com/watch?v=oK_XtfXPkqw)
 * [Retrofit 2](https://www.youtube.com/watch?v=KIAoQbAu3eA)
 * [Android Tech Talk: Annotation Processing Boilerplate Destruction](http://www.youtube.com/watch?v=dOcs-NKK-RA)
+* [Realm - A New and Easy to use Object Framework and Database](https://www.youtube.com/watch?v=QT7XD1hifkU)
 
 #### Google IO 2016
 
@@ -147,6 +158,7 @@ We'll be updating this once every month or so as we complete new topics in our o
 * [Life is Great and Everything Will Be Ok, Kotlin is Here](https://www.youtube.com/watch?v=fPzxfeDJDzY)
 * [Kotlin, the Swift of Android](https://www.youtube.com/watch?v=dJscNr1silY)
 * [Android Development with Kotlin](https://www.youtube.com/watch?v=A2LukgT2mKc)
+* [Better Android Development With Kotlin and Gradle](https://www.youtube.com/watch?v=_DaZQ374Chc)
 
 #### Tools (Android Studio, Debugger, OS X productivity)
 * [Knowledge Is Power: Understanding git](https://www.youtube.com/watch?v=sevc6668cQ0)
