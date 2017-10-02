@@ -35,8 +35,8 @@ We'll be updating this once every month or so as we complete new topics in our o
 
 #### Views - Next Level
 
-* [Mastering Android Drawables](https://www.parleys.com/play/528e806ae4b054cd7d2ef4a5/chapter0/about)
-* [Filthy Rich [Android] Clients](https://www.parleys.com/play/529474eee4b0524648d3aeab/about)
+* [Mastering Android Drawables](https://www.youtube.com/watch?v=JuE13KXRMxg)
+* [Filthy Rich [Android] Clients](https://www.youtube.com/watch?v=VYB9Hz1xqFg)
 * [Framing the Canvas](https://www.youtube.com/watch?v=IO_ckHYZv8U)
 * [How LayoutInflator Works](https://www.youtube.com/watch?v=Y06wmVIFlsw)
 * [Window Content Transitions](https://www.youtube.com/watch?v=VnB8XNi-kWA)
