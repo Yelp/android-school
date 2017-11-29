@@ -132,7 +132,18 @@ We'll be updating this once every month or so as we complete new topics in our o
 * [Dagger 2: A New Type of Dependency Injection](https://www.youtube.com/watch?v=oK_XtfXPkqw)
 * [Retrofit 2](https://www.youtube.com/watch?v=KIAoQbAu3eA)
 * [Android Tech Talk: Annotation Processing Boilerplate Destruction](http://www.youtube.com/watch?v=dOcs-NKK-RA)
+
+#### Making Your App Work Offline
 * [Realm - A New and Easy to use Object Framework and Database](https://www.youtube.com/watch?v=QT7XD1hifkU)
+* [Rule Your Realm](https://www.youtube.com/watch?v=ZTzg6lOgYiI)
+* [Android Architecture for the Subway](https://academy.realm.io/posts/360-andev-2017-ben-oberkfell-android-architecture-offline-first/)
+* [Don’t Fear SQL: Store and Handle Data with SQLBright and SQLDelight](https://academy.realm.io/posts/360-andev-2017-leandro-favarin-sqlbrite-sqdelight/)
+
+#### Android App Architecture
+* [Architecture Components - Introduction](https://www.youtube.com/watch?v=FrteWKKVyzI&list=PLWz5rJ2EKKc-odHd6XEaf7ykfsosYyCKp&index=4) 
+* [Architecture Components - Solving the Lifecycle Problem](https://www.youtube.com/watch?v=bEKNi1JOrNs&list=PLWz5rJ2EKKc-odHd6XEaf7ykfsosYyCKp)
+* [Architecture Components - Persistence and Offline](https://www.youtube.com/watch?v=MfHsPGQ6bgE&list=PLWz5rJ2EKKc-odHd6XEaf7ykfsosYyCKp&index=20)
+* [Clean App Design With Architecture Components](https://academy.realm.io/posts/360-andev-2017-chuck-greb-clean-app-design-architecture-components/)
 
 #### Google IO 2016
 
@@ -147,9 +158,6 @@ We'll be updating this once every month or so as we complete new topics in our o
 #### Google IO 2017
 
 * [What's New in Development Tools](https://www.youtube.com/watch?v=Hx_rwS1NTiI&list=PLWz5rJ2EKKc-odHd6XEaf7ykfsosYyCKp&index=17)
-* [Architecture Components - Introduction](https://www.youtube.com/watch?v=FrteWKKVyzI&list=PLWz5rJ2EKKc-odHd6XEaf7ykfsosYyCKp&index=4) 
-* [Architecture Components - Solving the Lifecycle Problem](https://www.youtube.com/watch?v=bEKNi1JOrNs&list=PLWz5rJ2EKKc-odHd6XEaf7ykfsosYyCKp)
-* [Architecture Components - Persistence and Offline](https://www.youtube.com/watch?v=MfHsPGQ6bgE&list=PLWz5rJ2EKKc-odHd6XEaf7ykfsosYyCKp&index=20)
 * [Fragment Tricks](https://www.youtube.com/watch?v=eUG3VWnXFtg&list=PLWz5rJ2EKKc-odHd6XEaf7ykfsosYyCKp&index=15)
 
 #### Kotlin
