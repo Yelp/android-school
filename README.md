@@ -56,7 +56,7 @@ We'll be updating this once every month or so as we complete new topics in our o
 #### Software Engineering Theory: Writing Clean Code
 
 * [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy)
-* [The Clean Code Talks - Global State And Singletons](https://www.youtube.com/watch?v=-FRm3VPhseI&list=PL693EFD059797C21E&index=2)
+* [The Clean Code Talks - Global State And Singletons](https://www.youtube.com/watch?v=-FRm3VPhseI)
 * [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc)
 * [How To Design A Good Api And Why It Matters](https://www.youtube.com/watch?v=aAb7hSCtvGw)
 * [Applying S.O.L.I.D. Principles](https://www.youtube.com/watch?v=gwIS9cZlrhk)
@@ -140,9 +140,9 @@ We'll be updating this once every month or so as we complete new topics in our o
 * [Don’t Fear SQL: Store and Handle Data with SQLBright and SQLDelight](https://academy.realm.io/posts/360-andev-2017-leandro-favarin-sqlbrite-sqdelight/)
 
 #### Android App Architecture
-* [Architecture Components - Introduction](https://www.youtube.com/watch?v=FrteWKKVyzI&list=PLWz5rJ2EKKc-odHd6XEaf7ykfsosYyCKp&index=4) 
+* [Architecture Components - Introduction](https://www.youtube.com/watch?v=FrteWKKVyzI) 
 * [Architecture Components - Solving the Lifecycle Problem](https://www.youtube.com/watch?v=bEKNi1JOrNs&list=PLWz5rJ2EKKc-odHd6XEaf7ykfsosYyCKp)
-* [Architecture Components - Persistence and Offline](https://www.youtube.com/watch?v=MfHsPGQ6bgE&list=PLWz5rJ2EKKc-odHd6XEaf7ykfsosYyCKp&index=20)
+* [Architecture Components - Persistence and Offline](https://www.youtube.com/watch?v=MfHsPGQ6bgE)
 * [Clean App Design With Architecture Components](https://academy.realm.io/posts/360-andev-2017-chuck-greb-clean-app-design-architecture-components/)
 
 #### Google IO 2016
@@ -157,8 +157,8 @@ We'll be updating this once every month or so as we complete new topics in our o
 
 #### Google IO 2017
 
-* [What's New in Development Tools](https://www.youtube.com/watch?v=Hx_rwS1NTiI&list=PLWz5rJ2EKKc-odHd6XEaf7ykfsosYyCKp&index=17)
-* [Fragment Tricks](https://www.youtube.com/watch?v=eUG3VWnXFtg&list=PLWz5rJ2EKKc-odHd6XEaf7ykfsosYyCKp&index=15)
+* [What's New in Development Tools](https://www.youtube.com/watch?v=Hx_rwS1NTiI)
+* [Fragment Tricks](https://www.youtube.com/watch?v=eUG3VWnXFtg)
 
 #### Kotlin
 
