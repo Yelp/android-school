@@ -24,6 +24,7 @@ We'll be updating this once every month or so as we complete new topics in our o
 * [Android Binder IPC Framework](https://www.youtube.com/watch?v=hiq3mGfLOtE)
 * [Interprocess Communication](https://www.youtube.com/watch?v=JjhI8-SRnZA)
 * [How The Main Thread Works](https://www.youtube.com/watch?v=aFGbv9Ih9qQ)
+* [Android Internals for Developers](https://www.youtube.com/watch?v=0zJCyKp7-9s)
 
 #### Views
 
@@ -105,6 +106,7 @@ We'll be updating this once every month or so as we complete new topics in our o
 * ["Uncle" Bob Martin - The Scribe's Oath](https://www.youtube.com/watch?v=Tng6Fox8EfI&spfreload=10)
 * [How and When to Explore - An Engineer's Guide](https://www.youtube.com/watch?v=rwWQe4vTbHI)
 * [Dan North - Decisions Decisions](https://www.youtube.com/watch?v=EauykEv_2iA)
+* [Tech Talks For Humans](https://www.youtube.com/watch?v=d5HYGu_UBNo)
 
 #### Testing
 
@@ -144,6 +146,8 @@ We'll be updating this once every month or so as we complete new topics in our o
 * [Architecture Components - Solving the Lifecycle Problem](https://www.youtube.com/watch?v=bEKNi1JOrNs&list=PLWz5rJ2EKKc-odHd6XEaf7ykfsosYyCKp)
 * [Architecture Components - Persistence and Offline](https://www.youtube.com/watch?v=MfHsPGQ6bgE)
 * [Clean App Design With Architecture Components](https://academy.realm.io/posts/360-andev-2017-chuck-greb-clean-app-design-architecture-components/)
+* [The Rx Workflow Pattern](https://www.youtube.com/watch?v=KjoMnsc2lPo)
+* [App Development - Pragmatic Best Practices](https://www.youtube.com/watch?v=8ni8RY__WeU)
 
 #### Google IO 2016
 
