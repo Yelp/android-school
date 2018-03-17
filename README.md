@@ -117,12 +117,15 @@ We'll be updating this once every month or so as we complete new topics in our o
 * [Acceptance Testing For Continuous Delivery](https://www.youtube.com/watch?v=SBhgteA2szg)
 * [Advanced Espresso](https://www.youtube.com/watch?v=isihPOY2vS4)
 * [Advanced Android Espresso](https://www.youtube.com/watch?v=JlHJFZvZyxw)
+* [10 simple rules for writing great testcases](https://www.youtube.com/watch?v=n6Nde8TgB2Y)
 
 #### Organizational Culture
 
 * [How Our Engineering Environments Are Killing Diversity (And How We Can Fix It).](https://www.youtube.com/watch?v=kNke_4WOWAU)
 * [The Art of Organizational Manipulation](https://www.youtube.com/watch?v=OTCuYzAw31Y)
 * [Keynote - Jacob Kaplan-Moss - PyCon 2015](https://www.youtube.com/watch?v=hIJdFxYlEKE)
+https://vimeo.com/242043944
+* [ Algorithms to Live By: The Computer Science of Human Decisions](https://vimeo.com/242043944)
 
 
 #### RxJava Talks
@@ -148,6 +151,7 @@ We'll be updating this once every month or so as we complete new topics in our o
 * [Clean App Design With Architecture Components](https://academy.realm.io/posts/360-andev-2017-chuck-greb-clean-app-design-architecture-components/)
 * [The Rx Workflow Pattern](https://www.youtube.com/watch?v=KjoMnsc2lPo)
 * [App Development - Pragmatic Best Practices](https://www.youtube.com/watch?v=8ni8RY__WeU)
+* [RIBs - Uber's new mobile architecture that scales to hundreds of engineers](https://www.youtube.com/watch?v=FfwZSk6VRVY)
 
 #### Google IO 2016
 
@@ -183,5 +187,8 @@ We'll be updating this once every month or so as we complete new topics in our o
 * [REST I don't think it means what you think it does - Stefan Tilkob](https://www.youtube.com/watch?v=9vS7TbgirgY)
 * [What is a CDN and why Developers should care about one - Artur Bergman](https://www.youtube.com/watch?v=farO15_0NUQ)
 * [Demystifying Docker - Andrew T. Baker](https://www.youtube.com/watch?v=GVVtR_hrdKI)
+
+### Java Deep Dives
+* [Java  Language Futures - All Aboard Project Amber](https://www.youtube.com/watch?v=qul2B8iPC-o)
 
 #### 
