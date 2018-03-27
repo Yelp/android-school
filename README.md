@@ -120,7 +120,6 @@ We'll be updating this once every month or so as we complete new topics in our o
 * [10 simple rules for writing great testcases](https://www.youtube.com/watch?v=n6Nde8TgB2Y)
 
 #### Organizational Culture
-
 * [How Our Engineering Environments Are Killing Diversity (And How We Can Fix It).](https://www.youtube.com/watch?v=kNke_4WOWAU)
 * [The Art of Organizational Manipulation](https://www.youtube.com/watch?v=OTCuYzAw31Y)
 * [Keynote - Jacob Kaplan-Moss - PyCon 2015](https://www.youtube.com/watch?v=hIJdFxYlEKE)
@@ -128,10 +127,16 @@ https://vimeo.com/242043944
 * [ Algorithms to Live By: The Computer Science of Human Decisions](https://vimeo.com/242043944)
 
 
-#### RxJava Talks
+#### RxJava Talks (Sorted in order of complexity from lowest -> highest)
 * [Functional Reactive Programming with RxJava](https://www.youtube.com/watch?v=_t06LRX0DV0)
 * [Introduction to Functional Reactive Programming (With a Bit More of an Android Focus)](https://www.youtube.com/watch?v=_XKX6UQfNGY)
+* [Christina Lee: Intro to RxJava](https://www.youtube.com/watch?v=XLH2v9deew0)
+* [Exploring RxJava 2 for Android](https://www.youtube.com/watch?v=htIXKI5gOQU)
+* [Advanced Networking with RxJava + Retrofit](https://www.youtube.com/watch?v=q4eK3VFhnA0)
+* [Droidcon SF - Common RxJava Mistakes](https://www.youtube.com/watch?v=QdmkXL7XikQ)
 * [Managing State with RxJava](https://www.youtube.com/watch?v=0IKHxjkgop4)
+
+
 
 #### Various Cool Android Libraries
 * [Dagger 2: A New Type of Dependency Injection](https://www.youtube.com/watch?v=oK_XtfXPkqw)
