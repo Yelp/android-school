@@ -178,7 +178,11 @@ https://vimeo.com/242043944
 * [Introduction To Kotlin](https://www.youtube.com/watch?v=X1RVYt2QKQE)
 * [Life is Great and Everything Will Be Ok, Kotlin is Here](https://www.youtube.com/watch?v=fPzxfeDJDzY)
 * [Kotlin, the Swift of Android](https://www.youtube.com/watch?v=dJscNr1silY)
-* [Android Development with Kotlin](https://www.youtube.com/watch?v=A2LukgT2mKc)
+* [The Road to Kotlintown](https://www.youtube.com/watch?v=OmwjrVawHqA)
+* [Idiomatic Interop](https://www.youtube.com/watch?v=zlggmRMadsU)
+* [Two Stones, One Bird: Implementation Tradeoffs](https://www.youtube.com/watch?v=YxOTU9F_YX4)
+* [You Can, but Should You?](https://www.youtube.com/watch?v=ihdEjDoXOgc)
+* [Introduction to Coroutines](https://www.youtube.com/watch?v=_hfBv0a09Jc)
 * [Better Android Development With Kotlin and Gradle](https://www.youtube.com/watch?v=_DaZQ374Chc)
 
 #### Tools (Android Studio, Debugger, OS X productivity)
