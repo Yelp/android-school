@@ -226,5 +226,6 @@ https://vimeo.com/242043944
 * [Attacking Android Applications](https://www.youtube.com/watch?v=oE5TGLLIvJM)
 * [Security And Privacy in Android Apps](https://www.youtube.com/watch?v=RPJENzweI-A)
 * [The Art of hiding Sensitive Info in Plain Sight](https://www.youtube.com/watch?v=PiosopSdIrY)
+* [Your App is a Giant DDOS Botnet and Other Reasons to Manage and Monitor Your Network Traffic](https://www.youtube.com/watch?v=8xLDdYM_nRY)
 
 #### 
