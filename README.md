@@ -8,6 +8,9 @@ We'll be updating this once every month or so as we complete new topics in our o
 
 ## Videos
 
+#### General Android Development
+* [Modern Android Development](https://www.youtube.com/watch?v=8GFLCL0u1lw)
+
 #### Android Build Tools
 
 * [Gradle For Android](http://www.youtube.com/watch?v=rXww768LUUM)
@@ -25,6 +28,7 @@ We'll be updating this once every month or so as we complete new topics in our o
 * [Interprocess Communication](https://www.youtube.com/watch?v=JjhI8-SRnZA)
 * [How The Main Thread Works](https://www.youtube.com/watch?v=aFGbv9Ih9qQ)
 * [Android Internals for Developers](https://www.youtube.com/watch?v=0zJCyKp7-9s)
+* [How Android Rendering Works to Provide Pixels on the Screen Faster Than You Can Read this Sentence](https://www.youtube.com/watch?v=J8TgB8GLp-M)
 
 #### Views
 
@@ -42,10 +46,8 @@ We'll be updating this once every month or so as we complete new topics in our o
 * [How LayoutInflator Works](https://www.youtube.com/watch?v=Y06wmVIFlsw)
 * [Window Content Transitions](https://www.youtube.com/watch?v=VnB8XNi-kWA)
 
-
 #### Android Features
 
-* [Security And Privacy in Android Apps](https://www.youtube.com/watch?v=RPJENzweI-A)
 * [App Indexing](https://www.youtube.com/watch?v=pl1-m8tJDmQ)
 * [Android App Anatomy](http://www.infoq.com/presentations/Android-Design/)
 
@@ -55,7 +57,6 @@ We'll be updating this once every month or so as we complete new topics in our o
 * [Robert C Martin - Clean Architecture and Design](https://www.youtube.com/watch?v=Nsjsiz2A9mg)
 
 #### Software Engineering Theory: Writing Clean Code
-
 * [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy)
 * [The Clean Code Talks - Global State And Singletons](https://www.youtube.com/watch?v=-FRm3VPhseI)
 * [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc)
@@ -71,7 +72,6 @@ We'll be updating this once every month or so as we complete new topics in our o
 * [Donald Knuth - My Advice to Young People](https://www.youtube.com/watch?v=75Ju0eM5T2c)
 * [Bjarne Stroustrup - Object Oriented Programming Without Inheritance](https://www.youtube.com/watch?v=xcpSLRpOMJM)
 * [Greg Wilson - What We Actually Know About Software Development, And Why We Believe It’s True](https://vimeo.com/9270320)
-
 #### UI Design
 
 * [Fundamentals of Design: How to Think Like a Designer](https://www.skillshare.com/classes/design/Fundamentals-of-Design-How-to-Think-Like-a-Designer/1986357063/classroom/discussions)
@@ -83,6 +83,7 @@ We'll be updating this once every month or so as we complete new topics in our o
 
 * [Performance Patterns with Colt McAnlis](https://www.youtube.com/watch?v=7lxVqqWwTb0&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE)
 * [Android Performance: An Overview](https://www.youtube.com/watch?v=Qfo5fdoXrTU)
+* [Finding and Fixing Performance Problems](https://www.youtube.com/watch?v=I4MhEx-nck4)
 
 #### Being a Great Engineer
 
@@ -107,6 +108,7 @@ We'll be updating this once every month or so as we complete new topics in our o
 * [How and When to Explore - An Engineer's Guide](https://www.youtube.com/watch?v=rwWQe4vTbHI)
 * [Dan North - Decisions Decisions](https://www.youtube.com/watch?v=EauykEv_2iA)
 * [Tech Talks For Humans](https://www.youtube.com/watch?v=d5HYGu_UBNo)
+* [Want To Make A Change? Stop Talking And Start Listening](https://www.youtube.com/watch?v=NHp9OcRObCM)
 
 #### Testing
 
@@ -118,6 +120,7 @@ We'll be updating this once every month or so as we complete new topics in our o
 * [Advanced Espresso](https://www.youtube.com/watch?v=isihPOY2vS4)
 * [Advanced Android Espresso](https://www.youtube.com/watch?v=JlHJFZvZyxw)
 * [10 simple rules for writing great testcases](https://www.youtube.com/watch?v=n6Nde8TgB2Y)
+* [Effective Unit Testing](https://www.youtube.com/watch?v=fr1E9aVnBxw)
 
 #### Organizational Culture
 * [How Our Engineering Environments Are Killing Diversity (And How We Can Fix It).](https://www.youtube.com/watch?v=kNke_4WOWAU)
@@ -125,7 +128,7 @@ We'll be updating this once every month or so as we complete new topics in our o
 * [Keynote - Jacob Kaplan-Moss - PyCon 2015](https://www.youtube.com/watch?v=hIJdFxYlEKE)
 https://vimeo.com/242043944
 * [ Algorithms to Live By: The Computer Science of Human Decisions](https://vimeo.com/242043944)
-
+* [Move Slow and Mend Things](https://www.youtube.com/watch?v=1kklyq4XYpw)
 
 #### RxJava Talks (Sorted in order of complexity from lowest -> highest)
 * [Functional Reactive Programming with RxJava](https://www.youtube.com/watch?v=_t06LRX0DV0)
@@ -184,6 +187,8 @@ https://vimeo.com/242043944
 * [You Can, but Should You?](https://www.youtube.com/watch?v=ihdEjDoXOgc)
 * [Introduction to Coroutines](https://www.youtube.com/watch?v=_hfBv0a09Jc)
 * [Better Android Development With Kotlin and Gradle](https://www.youtube.com/watch?v=_DaZQ374Chc)
+* [Kotlin's Hidden Costs, Revisited](https://www.youtube.com/watch?v=xaVLJmTf1kA)
+* [Sealed Classes Opened My Mind: How We Use Kotlin to Tame State at Etsy](https://www.youtube.com/watch?v=uGMm3StjqLI)
 
 #### Tools (Android Studio, Debugger, OS X productivity)
 * [Knowledge Is Power: Understanding git](https://www.youtube.com/watch?v=sevc6668cQ0)
@@ -191,13 +196,36 @@ https://vimeo.com/242043944
 * [Mastering the Vim Language](https://www.youtube.com/watch?v=wlR5gYd6um0) (intermediate)
 * [From Vim Muggle to Wizard in 10 Easy Steps](https://www.youtube.com/watch?v=MquaityA1SM) (advanced)
 
-### API Design: How Does the Backend Work?
+#### API Design: How Does the Backend Work?
 * [Pragmatic Microservices - Randy Shoup](https://www.youtube.com/watch?v=9vS7TbgirgY)
 * [REST I don't think it means what you think it does - Stefan Tilkob](https://www.youtube.com/watch?v=pspy1H6A3FM)
 * [What is a CDN and why Developers should care about one - Artur Bergman](https://www.youtube.com/watch?v=farO15_0NUQ)
 * [Demystifying Docker - Andrew T. Baker](https://www.youtube.com/watch?v=GVVtR_hrdKI)
 
-### Java Deep Dives
+#### Java Deep Dives
 * [Java  Language Futures - All Aboard Project Amber](https://www.youtube.com/watch?v=qul2B8iPC-o)
+
+#### Tech Debt and Maintainability
+* [Crushing Tech Debt Through Automation at Coinbase](https://www.youtube.com/watch?v=KaK2lAj1B-Q)
+* [Escaping the Technical Debt Cycle](https://www.youtube.com/watch?v=7hL6g1aTGvo)
+* [Seven Secrets of Maintainable Codebases](https://www.youtube.com/watch?v=0oDporwhToQ)
+
+#### Google I/O 2018
+* [What's New in Android](https://events.google.com/io/schedule/?section=may-8&sid=42653472-e875-48a3-9d55-1d31f0284267)
+* [What's New in Android Development Tools](https://events.google.com/io/schedule/?section=may-8&sid=42653472-e875-48a3-9d55-1d31f0284267)
+* [Android Slices](https://www.youtube.com/watch?v=a7IVH5aNwwc)
+* [Android Jetpack](https://www.youtube.com/watch?v=st1XVfkDWqk)
+* [Android Jetpack: Manage Infinite Lists with RecyclerView and Paging](https://events.google.com/io/schedule/?section=may-8&sid=6f8b8fdf-155c-4bbf-9fbe-50d8340b6c2d)
+* [Android Jetpack: how to smartly use Fragments in your UI](https://www.youtube.com/watch?v=WVPH48lUzGY)
+
+
+#### Experimentation
+* [When Metrics Lie](https://www.youtube.com/watch?v=p0xBqF13RJY)
+
+#### Security
+* [Attacking Android Applications](https://www.youtube.com/watch?v=oE5TGLLIvJM)
+* [Security And Privacy in Android Apps](https://www.youtube.com/watch?v=RPJENzweI-A)
+* [The Art of hiding Sensitive Info in Plain Sight](https://www.youtube.com/watch?v=PiosopSdIrY)
+* [Your App is a Giant DDOS Botnet and Other Reasons to Manage and Monitor Your Network Traffic](https://www.youtube.com/watch?v=8xLDdYM_nRY)
 
 #### 
