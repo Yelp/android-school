@@ -19,6 +19,7 @@ We'll be updating this once every month or so as we complete new topics in our o
 * [Using Mat (Memory Analyzer Tool) to Understand Memory Issues in Your App](https://www.youtube.com/watch?v=6ryAYxLNpt8)
 * [Udacity Course - Gradle For Android And Java](https://www.udacity.com/course/gradle-for-android-and-java--ud867) (Gradle 101)
 * [Android Studio For Experts](https://youtu.be/Y2GC6P5hPeA)
+* [Deep Dive Into the Gradle Based Android Build System](https://www.youtube.com/watch?v=Xw6CKEsWvxo)
 
 #### Android OS
 
@@ -63,6 +64,7 @@ We'll be updating this once every month or so as we complete new topics in our o
 * [How To Design A Good Api And Why It Matters](https://www.youtube.com/watch?v=aAb7hSCtvGw)
 * [Applying S.O.L.I.D. Principles](https://www.youtube.com/watch?v=gwIS9cZlrhk)
 * [Domain Driven Design By Example](https://www.youtube.com/watch?v=uwJRrJ2Hwqg&t=19s)
+* [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc)
 
 #### Software Engineering Theory
 
@@ -145,6 +147,7 @@ https://vimeo.com/242043944
 * [Dagger 2: A New Type of Dependency Injection](https://www.youtube.com/watch?v=oK_XtfXPkqw)
 * [Retrofit 2](https://www.youtube.com/watch?v=KIAoQbAu3eA)
 * [Android Tech Talk: Annotation Processing Boilerplate Destruction](http://www.youtube.com/watch?v=dOcs-NKK-RA)
+* [Upgrading to Moshi](https://www.youtube.com/watch?v=xHFs7cccnXU)
 
 #### Making Your App Work Offline
 * [Realm - A New and Easy to use Object Framework and Database](https://www.youtube.com/watch?v=QT7XD1hifkU)
@@ -160,6 +163,7 @@ https://vimeo.com/242043944
 * [The Rx Workflow Pattern](https://www.youtube.com/watch?v=KjoMnsc2lPo)
 * [App Development - Pragmatic Best Practices](https://www.youtube.com/watch?v=8ni8RY__WeU)
 * [RIBs - Uber's new mobile architecture that scales to hundreds of engineers](https://www.youtube.com/watch?v=FfwZSk6VRVY)
+* [Netflix's componentization architecture with RxJava + Kotlin](https://www.youtube.com/watch?v=dS9gho9Rxn4)
 
 #### Google IO 2016
 
@@ -189,12 +193,14 @@ https://vimeo.com/242043944
 * [Better Android Development With Kotlin and Gradle](https://www.youtube.com/watch?v=_DaZQ374Chc)
 * [Kotlin's Hidden Costs, Revisited](https://www.youtube.com/watch?v=xaVLJmTf1kA)
 * [Sealed Classes Opened My Mind: How We Use Kotlin to Tame State at Etsy](https://www.youtube.com/watch?v=uGMm3StjqLI)
+* [Functional Programming with Kotlin](https://www.youtube.com/watch?v=eNe5Nokrjdg&feature=youtu.be&list=PLEx5khR4g7PJzxBWC9c6xx0LghEIxCLwm)
 
 #### Tools (Android Studio, Debugger, OS X productivity)
 * [Knowledge Is Power: Understanding git](https://www.youtube.com/watch?v=sevc6668cQ0)
 * [Mac OS X Automation Workshop](https://www.youtube.com/watch?v=yzE1UxVl6U4)
 * [Mastering the Vim Language](https://www.youtube.com/watch?v=wlR5gYd6um0) (intermediate)
 * [From Vim Muggle to Wizard in 10 Easy Steps](https://www.youtube.com/watch?v=MquaityA1SM) (advanced)
+* [Don’t Sweat the Small Stuff](https://www.youtube.com/watch?v=gjHY7jl4rrA)
 
 #### API Design: How Does the Backend Work?
 * [Pragmatic Microservices - Randy Shoup](https://www.youtube.com/watch?v=9vS7TbgirgY)
@@ -222,10 +228,11 @@ https://vimeo.com/242043944
 #### Experimentation
 * [When Metrics Lie](https://www.youtube.com/watch?v=p0xBqF13RJY)
 
-#### Security
+#### Security + Related
 * [Attacking Android Applications](https://www.youtube.com/watch?v=oE5TGLLIvJM)
 * [Security And Privacy in Android Apps](https://www.youtube.com/watch?v=RPJENzweI-A)
 * [The Art of hiding Sensitive Info in Plain Sight](https://www.youtube.com/watch?v=PiosopSdIrY)
 * [Your App is a Giant DDOS Botnet and Other Reasons to Manage and Monitor Your Network Traffic](https://www.youtube.com/watch?v=8xLDdYM_nRY)
+* [Breaking the Android ClassLoader](https://www.youtube.com/watch?v=Ns73ovzpuQU)
 
 #### 
