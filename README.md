@@ -19,6 +19,7 @@ We'll be updating this once every month or so as we complete new topics in our o
 * [Using Mat (Memory Analyzer Tool) to Understand Memory Issues in Your App](https://www.youtube.com/watch?v=6ryAYxLNpt8)
 * [Udacity Course - Gradle For Android And Java](https://www.udacity.com/course/gradle-for-android-and-java--ud867) (Gradle 101)
 * [Android Studio For Experts](https://youtu.be/Y2GC6P5hPeA)
+* [Deep Dive Into the Gradle Based Android Build System](https://www.youtube.com/watch?v=Xw6CKEsWvxo)
 
 #### Android OS
 
@@ -29,6 +30,7 @@ We'll be updating this once every month or so as we complete new topics in our o
 * [How The Main Thread Works](https://www.youtube.com/watch?v=aFGbv9Ih9qQ)
 * [Android Internals for Developers](https://www.youtube.com/watch?v=0zJCyKp7-9s)
 * [How Android Rendering Works to Provide Pixels on the Screen Faster Than You Can Read this Sentence](https://www.youtube.com/watch?v=J8TgB8GLp-M)
+* [Breaking the Android ClassLoader](https://www.youtube.com/watch?v=Ns73ovzpuQU)
 
 #### Views
 
@@ -50,6 +52,8 @@ We'll be updating this once every month or so as we complete new topics in our o
 
 * [App Indexing](https://www.youtube.com/watch?v=pl1-m8tJDmQ)
 * [Android App Anatomy](http://www.infoq.com/presentations/Android-Design/)
+* [Android U+2764 (❤) Emoji](https://www.youtube.com/watch?v=-RnaBERpsDU)
+* [Building your own ride share app](https://www.youtube.com/watch?v=4IakRlNwEIM)
 
 #### Software Engineering Theory: Patterns
 * [Composition vs inheritance](https://www.youtube.com/watch?v=dYUZiJEy0JE)
@@ -78,6 +82,7 @@ We'll be updating this once every month or so as we complete new topics in our o
 * [Material Science: Developing Android Applications with Material Design](https://www.google.com/events/io/io14videos/4f4e4aa1-b7b3-e311-b30e-00155d5066d7)
 * [Material Design For Android Developers](https://www.udacity.com/course/android-design-for-developers--ud862) - Udacity Course
 * [Inclusive Design And Testing: Making Your App Accessible](https://www.youtube.com/watch?v=SOZwfQO4rVM)
+* [Writing Code That Lasts Forever](https://www.youtube.com/watch?v=YZstpc2939s)
 
 #### Android Performance
 
@@ -121,6 +126,9 @@ We'll be updating this once every month or so as we complete new topics in our o
 * [Advanced Android Espresso](https://www.youtube.com/watch?v=JlHJFZvZyxw)
 * [10 simple rules for writing great testcases](https://www.youtube.com/watch?v=n6Nde8TgB2Y)
 * [Effective Unit Testing](https://www.youtube.com/watch?v=fr1E9aVnBxw)
+* [Mocks, Stubs, and Spies, Oh My](https://www.youtube.com/watch?v=BNXPRIscfQ8)
+* [Advanced Espresso](https://www.youtube.com/watch?v=isihPOY2vS4)
+* [Junit5: the next gen of testing, don't stay behind](https://www.youtube.com/watch?v=5fIkkoPtPaw)
 
 #### Organizational Culture
 * [How Our Engineering Environments Are Killing Diversity (And How We Can Fix It).](https://www.youtube.com/watch?v=kNke_4WOWAU)
@@ -129,6 +137,9 @@ We'll be updating this once every month or so as we complete new topics in our o
 https://vimeo.com/242043944
 * [ Algorithms to Live By: The Computer Science of Human Decisions](https://vimeo.com/242043944)
 * [Move Slow and Mend Things](https://www.youtube.com/watch?v=1kklyq4XYpw)
+* [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc)
+* [The Art of Organizational Manipulation](https://www.youtube.com/watch?v=OTCuYzAw31Y)
+* [Retrospectives](https://www.youtube.com/watch?v=UIU6P9HRYzo)
 
 #### RxJava Talks (Sorted in order of complexity from lowest -> highest)
 * [Functional Reactive Programming with RxJava](https://www.youtube.com/watch?v=_t06LRX0DV0)
@@ -145,6 +156,7 @@ https://vimeo.com/242043944
 * [Dagger 2: A New Type of Dependency Injection](https://www.youtube.com/watch?v=oK_XtfXPkqw)
 * [Retrofit 2](https://www.youtube.com/watch?v=KIAoQbAu3eA)
 * [Android Tech Talk: Annotation Processing Boilerplate Destruction](http://www.youtube.com/watch?v=dOcs-NKK-RA)
+* [Upgrading to Moshi](https://www.youtube.com/watch?v=xHFs7cccnXU)
 
 #### Making Your App Work Offline
 * [Realm - A New and Easy to use Object Framework and Database](https://www.youtube.com/watch?v=QT7XD1hifkU)
@@ -160,6 +172,7 @@ https://vimeo.com/242043944
 * [The Rx Workflow Pattern](https://www.youtube.com/watch?v=KjoMnsc2lPo)
 * [App Development - Pragmatic Best Practices](https://www.youtube.com/watch?v=8ni8RY__WeU)
 * [RIBs - Uber's new mobile architecture that scales to hundreds of engineers](https://www.youtube.com/watch?v=FfwZSk6VRVY)
+* [Netflix's componentization architecture with RxJava + Kotlin](https://www.youtube.com/watch?v=dS9gho9Rxn4)
 
 #### Google IO 2016
 
@@ -189,18 +202,24 @@ https://vimeo.com/242043944
 * [Better Android Development With Kotlin and Gradle](https://www.youtube.com/watch?v=_DaZQ374Chc)
 * [Kotlin's Hidden Costs, Revisited](https://www.youtube.com/watch?v=xaVLJmTf1kA)
 * [Sealed Classes Opened My Mind: How We Use Kotlin to Tame State at Etsy](https://www.youtube.com/watch?v=uGMm3StjqLI)
+* [Functional Programming with Kotlin](https://www.youtube.com/watch?v=eNe5Nokrjdg)
+* [Representing State: the Kotlin Edition ](https://www.youtube.com/watch?v=-lVVfxsRjcY)
+* [Dissecting the stdlib](https://www.youtube.com/watch?v=knUZ6j7X63I)
 
 #### Tools (Android Studio, Debugger, OS X productivity)
 * [Knowledge Is Power: Understanding git](https://www.youtube.com/watch?v=sevc6668cQ0)
 * [Mac OS X Automation Workshop](https://www.youtube.com/watch?v=yzE1UxVl6U4)
 * [Mastering the Vim Language](https://www.youtube.com/watch?v=wlR5gYd6um0) (intermediate)
 * [From Vim Muggle to Wizard in 10 Easy Steps](https://www.youtube.com/watch?v=MquaityA1SM) (advanced)
+* [Don’t Sweat the Small Stuff](https://www.youtube.com/watch?v=gjHY7jl4rrA)
+* [Digging into D8 and R8](https://www.youtube.com/watch?v=99H7COwhIpI)
 
 #### API Design: How Does the Backend Work?
 * [Pragmatic Microservices - Randy Shoup](https://www.youtube.com/watch?v=9vS7TbgirgY)
 * [REST I don't think it means what you think it does - Stefan Tilkob](https://www.youtube.com/watch?v=pspy1H6A3FM)
 * [What is a CDN and why Developers should care about one - Artur Bergman](https://www.youtube.com/watch?v=farO15_0NUQ)
 * [Demystifying Docker - Andrew T. Baker](https://www.youtube.com/watch?v=GVVtR_hrdKI)
+* [5 Features of a Good API](https://www.youtube.com/watch?v=L9oR4U2nVhQ)
 
 #### Java Deep Dives
 * [Java  Language Futures - All Aboard Project Amber](https://www.youtube.com/watch?v=qul2B8iPC-o)
